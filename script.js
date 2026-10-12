@@ -3,6 +3,7 @@ console.log("hello");
 
 const reels = ['a','🍒', '🍋', '🍇', '🍌', '💎', '7️⃣'];
     let isSpinning = false;
+    var hello=1;
 
     function spin() {
       if (isSpinning) return;
