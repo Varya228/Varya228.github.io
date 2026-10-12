@@ -1,7 +1,7 @@
 console.log("hello");
 
 
-const reels = ['🍒', '🍋', '🍇', '🍌', '💎', '7️⃣'];
+const reels = ['a','🍒', '🍋', '🍇', '🍌', '💎', '7️⃣'];
     let isSpinning = false;
 
     function spin() {
